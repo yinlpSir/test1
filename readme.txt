@@ -5,3 +5,6 @@ xiang shui jiao
 creating a new branch is quick and simple.
 test --no-ff
 bug fixed.
+1111
+test stash
+
