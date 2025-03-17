@@ -7,3 +7,4 @@ test --no-ff
 1111
 
 test stash
+temp->test1->modify1
